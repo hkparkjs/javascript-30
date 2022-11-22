@@ -5,6 +5,3 @@ I started javascript 30 challenge to get used to javascript langunage.
 
 ## Finished 
  - [Day1 - drum kit]()
-
-## Continue development
-- react development (Inflearn)
